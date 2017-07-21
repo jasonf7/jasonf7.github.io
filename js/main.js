@@ -59,9 +59,12 @@ $(function () {
 					carouselWidth: 512,
 					carouselHeight: 512,
 					images: [
-						{src: "refraction.png", caption: ""}
+						{src: "refraction1.png", caption: ""},
+						{src: "refraction2.png", caption: ""},
+						{src: "refraction3.png", caption: ""},
+						{src: "refraction4.png", caption: ""}
 					],
-					footer: "Index of refraction of 1.5"
+					footer: "Index of refraction of 1.0, 1.1, 1.3, 1.5"
 				},
 				{
 					name: "Glossy reflection",
@@ -199,7 +202,7 @@ $(function () {
 					carouselHeight: 512,
 					images: [
 						{src: "fresnel.png", caption: ""},
-						{src: "refraction.png", caption: ""}
+						{src: "fresnel1.png", caption: ""}
 					],
 					footer: ""
 				}
