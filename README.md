@@ -1,3 +1,3 @@
-VReq
+Ray Tracer
 ====
-ENGHACK project
+CS488 Final Project Spring 2017
